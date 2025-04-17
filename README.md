@@ -1,7 +1,7 @@
 # Sample_Superstore
 This interactive dashboard analyzes sales, profit, and regional performance metrics for a fictional retail store, Sample Superstore. Designed for data-driven decision-making, it helps users explore monthly and regional trends over several years.
  🔗 [View Dashboard Here](https://github.com/user-attachments/assets/fe0fd2a0-29b8-4f57-8072-078b14947ef5)
-- 📄 [Download Excel File]([https://your-excel-file-link.com](https://www.wisdomaxis.com/technology/software/data/for-reports/Sample%20-%20Superstore%20for%20Tableau%209.x%20versions.xls))
+- 📄 [Download Excel File](https://www.wisdomaxis.com/technology/software/data/for-reports/Sample%20-%20Superstore%20for%20Tableau%209.x%20versions.xls)
 - 📌 Key Features
 Total Profit By Year in Month
 Monthly profit analysis using bar charts.

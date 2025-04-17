@@ -1,6 +1,6 @@
 # Sample_Superstore
 This interactive dashboard analyzes sales, profit, and regional performance metrics for a fictional retail store, Sample Superstore. Designed for data-driven decision-making, it helps users explore monthly and regional trends over several years.
- 🔗 [View Dashboard Here](https://your-dashboard-link.com)
+ 🔗 [View Dashboard Here](Screenshot 2025-01-19 210921.htm)
 - 📄 [Download Excel File](https://your-excel-file-link.com)
 - 📌 Key Features
 Total Profit By Year in Month
